@@ -1,18 +1,21 @@
 {
   "gifs": [
     {
+      "likes": 0,
       "id": 1,
       "name": "Impressed cat",
       "description": "A cute cat impressed",
       "image": "https://media2.giphy.com/media/Fs0vJPEU1l6sU/giphy.gif?cid=ecf05e475x0eaf88llich2zope73z3at8x5ri59z6raagdsw&rid=giphy.gif&ct=g"
     },
     {
+      "likes": 0,
       "id": 2,
       "name": "I'm watching you",
       "description": "Actress from orange is the new black saying I'm watching you",
       "image": "https://media3.giphy.com/media/2hAID9tfD5Ghi/giphy.gif?cid=ecf05e47cflxscztmhjsv4z12egepqkubu6sajihyq29v5z7&rid=giphy.gif&ct=g"
     },
     {
+      "likes": 0,
       "id": 3,
       "name": "Excitement",
       "description": "A excited person",
@@ -22,7 +25,8 @@
       "name": "Naruto shippuden",
       "description": "Naruto in action",
       "image": "https://media0.giphy.com/media/2y98KScHKeaQM/giphy.gif?cid=ecf05e47yzcsy46koe9bgnkc9bih0vuhyzsyini796l0qv43&rid=giphy.gif&ct=g",
-      "id": 5
+      "id": 5,
+      "likes": 0
     }
   ],
   "categories": [
