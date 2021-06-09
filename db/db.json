@@ -5,21 +5,24 @@
       "name": "Impressed cat",
       "description": "A cute cat impressed",
       "image": "https://media2.giphy.com/media/Fs0vJPEU1l6sU/giphy.gif?cid=ecf05e475x0eaf88llich2zope73z3at8x5ri59z6raagdsw&rid=giphy.gif&ct=g",
-      "likes": 6
+      "likes": 7,
+      "category": "animals"
     },
     {
       "id": 2,
       "name": "I'm watching you",
       "description": "Actress from orange is the new black saying I'm watching you",
       "image": "https://media3.giphy.com/media/2hAID9tfD5Ghi/giphy.gif?cid=ecf05e47cflxscztmhjsv4z12egepqkubu6sajihyq29v5z7&rid=giphy.gif&ct=g",
-      "likes": 5
+      "likes": 7,
+      "category": "tv"
     },
     {
       "id": 3,
       "name": "Excitement",
       "description": "A excited person",
       "image": "https://media3.giphy.com/media/q4sdF9tchap6E/giphy.gif?cid=ecf05e47vdswx0kxj7ee275pyt9mior65axucz3g3poxsggq&rid=giphy.gif&ct=g",
-      "likes": 5
+      "likes": 11,
+      "category": "emotions"
     }
   ],
   "categories": [
