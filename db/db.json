@@ -2,10 +2,10 @@
   "gifs": [
     {
       "id": 1,
-      "name": "Impressed cat",
+      "name": "Cat Impressed",
       "description": "A cute cat impressed",
       "image": "https://media2.giphy.com/media/Fs0vJPEU1l6sU/giphy.gif?cid=ecf05e475x0eaf88llich2zope73z3at8x5ri59z6raagdsw&rid=giphy.gif&ct=g",
-      "likes": 7,
+      "likes": 4,
       "category": "animals"
     },
     {
@@ -13,16 +13,32 @@
       "name": "I'm watching you",
       "description": "Actress from orange is the new black saying I'm watching you",
       "image": "https://media3.giphy.com/media/2hAID9tfD5Ghi/giphy.gif?cid=ecf05e47cflxscztmhjsv4z12egepqkubu6sajihyq29v5z7&rid=giphy.gif&ct=g",
-      "likes": 7,
+      "likes": 1,
       "category": "tv"
     },
     {
-      "id": 3,
-      "name": "Excitement",
-      "description": "A excited person",
-      "image": "https://media3.giphy.com/media/q4sdF9tchap6E/giphy.gif?cid=ecf05e47vdswx0kxj7ee275pyt9mior65axucz3g3poxsggq&rid=giphy.gif&ct=g",
-      "likes": 11,
-      "category": "emotions"
+      "name": "Naruto shippuden",
+      "description": "Naruto in action",
+      "image": "https://media0.giphy.com/media/2y98KScHKeaQM/giphy.gif?cid=ecf05e47yzcsy46koe9bgnkc9bih0vuhyzsyini796l0qv43&rid=giphy.gif&ct=g",
+      "id": 4,
+      "likes": 5,
+      "category": "anime"
+    },
+    {
+      "name": "Love U",
+      "description": "A man demonstrating love",
+      "image": "https://media3.giphy.com/media/2dQ3FMaMFccpi/giphy.gif?cid=ecf05e4745eb338d05eff29a5256ef73fe4a2904cb009e09&rid=giphy.gif&ct=g",
+      "category": "emotions",
+      "id": 6,
+      "likes": 4
+    },
+    {
+      "name": "Dog Dancing",
+      "description": "A little white dog dancing funny",
+      "image": "https://media2.giphy.com/media/wW95fEq09hOI8/200.webp?cid=ecf05e47i5bkgyxrcx9p9fcs4ni0xzszztrd22m3attrd6ju&rid=200.webp&ct=g",
+      "category": "animals",
+      "id": 7,
+      "likes": 3
     }
   ],
   "categories": [
